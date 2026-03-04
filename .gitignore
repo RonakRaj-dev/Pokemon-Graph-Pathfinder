@@ -1,14 +1,14 @@
-./frontend/node_modules
-./frontend/next.config.js
-./frontend/next-env.d.ts
-./frontend/package-lock.json
-./frontend/package.json
-./frontend/postcss.config.js
-./frontend/tailwind.config.js
-./frontend/tsconfig.json
-./frontend/tsconfig.tsbuildinfo
-./frontend/.next
-./.idea
+/frontend/node_modules
+/frontend/next.config.js
+/frontend/next-env.d.ts
+/frontend/package-lock.json
+/frontend/package.json
+/frontend/postcss.config.js
+/frontend/tailwind.config.js
+/frontend/tsconfig.json
+/frontend/tsconfig.tsbuildinfo
+/frontend/.next
+/.idea
 
 # Private files, secrets, and environment variables
 .env
@@ -24,10 +24,10 @@ mcp_config.json
 *.private.*
 
 .idea
-./backend/.venv
-./backend/app/__pycache__
-./backend/app/api/__pycache__
-./backend/app/api/v1/__pycache__
-./backend/app/core/__pycache__
-./backend/app/core/algorithms/__pycache__
-./backend/app/models/__pycache__
+/backend/.venv
+/backend/app/__pycache__
+/backend/app/api/__pycache__
+/backend/app/api/v1/__pycache__
+/backend/app/core/__pycache__
+/backend/app/core/algorithms/__pycache__
+/backend/app/models/__pycache__
