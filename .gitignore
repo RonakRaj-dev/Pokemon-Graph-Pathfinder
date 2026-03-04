@@ -1,12 +1,12 @@
 /frontend/node_modules
-/frontend/next.config.js
-/frontend/next-env.d.ts
-/frontend/package-lock.json
-/frontend/package.json
-/frontend/postcss.config.js
-/frontend/tailwind.config.js
-/frontend/tsconfig.json
-/frontend/tsconfig.tsbuildinfo
+#/frontend/next.config.js
+#/frontend/next-env.d.ts
+#/frontend/package-lock.json
+#/frontend/package.json
+#/frontend/postcss.config.js
+#/frontend/tailwind.config.js
+#/frontend/tsconfig.json
+#/frontend/tsconfig.tsbuildinfo
 /frontend/.next
 /.idea
 
